@@ -1,0 +1,19 @@
+{
+  "theListOfTracks" : [ {
+    "path" : "E:\\teaching\\Programming III\\TB1\\Tests\\Test4\\solutions\\PIII_test4\\test-data\\Classical\\mozart.mp3",
+    "secondsDuration" : 100,
+    "label" : "Mozart"
+  }, {
+    "path" : "E:\\teaching\\Programming III\\TB1\\Tests\\Test4\\solutions\\PIII_test4\\test-data\\Classical\\mozart_sonata.mp3",
+    "secondsDuration" : 200,
+    "label" : "mozart"
+  }, {
+    "path" : "E:\\teaching\\Programming III\\TB1\\Tests\\Test4\\solutions\\PIII_test4\\test-data\\Classical\\piano_concerto.mp3",
+    "secondsDuration" : 300,
+    "label" : "MOZART CONCERTO"
+  }, {
+    "path" : "E:\\teaching\\Programming III\\TB1\\Tests\\Test4\\solutions\\PIII_test4\\test-data\\Classical\\ravel.mp3",
+    "secondsDuration" : 400,
+    "label" : "Ravel"
+  } ]
+}

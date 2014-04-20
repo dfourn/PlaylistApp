@@ -1,0 +1,19 @@
+{
+  "theListOfTracks" : [ {
+    "path" : "Classical\\mozart.mp3",
+    "secondsDuration" : 100,
+    "label" : "Mozart"
+  }, {
+    "path" : "Classical\\beethoven.mp3",
+    "secondsDuration" : 200,
+    "label" : "Beethoven"
+  }, {
+    "path" : "Classical\\chopin.mp3",
+    "secondsDuration" : 300,
+    "label" : "Chopin"
+  }, {
+    "path" : "Classical\\ravel.mp3",
+    "secondsDuration" : 400,
+    "label" : "Ravel"
+  } ]
+}
